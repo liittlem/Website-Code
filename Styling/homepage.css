@@ -1,0 +1,62 @@
+body {
+  background-color: #F6F6F6;
+}
+
+#nametitle {
+  line-height: 0em;
+  font-family: "Forum",serif;
+  font-size: 60px;
+  letter-spacing: -6px;
+  padding-top: 10%;
+  padding-left: 5%;
+  margin-bottom: 3%;
+}
+
+#para1 {
+  text-align: center;
+}
+
+#para2 {
+  line-height: 1.5em;
+  font-size: 13px;
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  padding-left: 5%;
+}
+
+#para2point5 {
+  line-height: 0.2em;
+  font-size: 13px;
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  padding-left: 5%;
+}
+
+#para3 {
+  font-size: 13px;
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 2%;
+  line-height: 1.7em;
+  letter-spacing: 1.5%;
+}
+
+
+#btn{
+  border: 1px solid black;
+  padding: 7px;
+  padding-left: 2%;
+  padding-right: 2%;
+  cursor: url("Styling/icons/cursor.svg"), auto;
+  background: #F6F6F6;
+}
+
+#ctadiv{
+  padding-left: 5%;
+}
+
+#iconpad{
+  padding-left: 2%;
+}
